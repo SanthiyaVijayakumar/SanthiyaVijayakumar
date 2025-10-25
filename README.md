@@ -12,7 +12,7 @@
 
 ## 🌟 Featured Projects
 
-- 📚 [Book Store Web Application] (https://santy-book-store.vercel.app/)
+- 📚 [BookStoreWebApplication] (https://santy-book-store.vercel.app/)
 - 🏆 [Webathon](https://vercel.com/santhiyas-projects-0033fd30/webathon)
 - 🎓 [EdHack](https://vercel.com/santhiyas-projects-0033fd30/edhack)
 - 🍰 [Bakery](https://vercel.com/santhiyas-projects-0033fd30/bakery)
